@@ -1,4 +1,3 @@
-# README
 # Team Liang Personal Website
 
 This repository hosts the source code of [team-liang.com](https://team-liang.com),  
@@ -15,7 +14,7 @@ my personal website built with **GitHub Pages**.
 ---
 
 ## 📂 Project Structure
-team-liang.github.io/
+- team-liang.github.io/
 ├── index.html        # Main homepage
 ├── style.css         # Stylesheet
 ├── script.js         # JavaScript for interactions
