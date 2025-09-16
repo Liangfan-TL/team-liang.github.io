@@ -15,12 +15,12 @@ my personal website built with **GitHub Pages**.
 
 ## 📂 Project Structure
 - team-liang.github.io/
-├── index.html        # Main homepage
-├── style.css         # Stylesheet
-├── script.js         # JavaScript for interactions
-├── assets/           # Images, icons, and other static resources
-├── _posts/           # (Optional) Blog posts in Markdown
-└── CNAME             # Custom domain config (team-liang.com)
+- ├── index.html        # Main homepage
+- ├── style.css         # Stylesheet
+- ├── script.js         # JavaScript for interactions
+- ├── assets/           # Images, icons, and other static resources
+- ├── _posts/           # (Optional) Blog posts in Markdown
+- └── CNAME             # Custom domain config (team-liang.com)
 ---
 
 ## 🛠 Development Setup
